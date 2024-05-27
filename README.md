@@ -20,7 +20,7 @@ BASH-weather is a simple yet effective weather forecasting tool designed to run 
 ## 🚀 Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/BASH-weather.git
+    git clone https://github.com/22pt16/BASH-weather.git
     ```
 2. Navigate to the project directory:
     ```bash
