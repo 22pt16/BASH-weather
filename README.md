@@ -29,13 +29,13 @@ BASH-weather is a simple yet effective weather forecasting tool designed to run 
 
 3. Run the `weather.sh` script with the desired location:
     ```bash
-    ./weather.sh "Coimbatore"
+    ./main.sh "Coimbatore"
     ```
 
     or
 
     ```bash
-    ./weather.sh
+    ./main.sh
     ```
 
 4. Follow the on-screen prompts to enter the location manually or use the device's IP.
